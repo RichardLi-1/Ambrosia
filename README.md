@@ -1,3 +1,3 @@
-# YRHacks
+# Ambrosia
 
-Made by Sarah Ling, Richard Li, Michele Tse, and Lucas Xie
+Made by Richard Li, Sarah Ling, Michele Tse, and Lucas Xie
